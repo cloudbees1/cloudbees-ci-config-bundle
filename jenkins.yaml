@@ -79,5 +79,5 @@ cloudbees-slack-integration:
       jenkins: "kevlam"
       optedIn: true
       scmId: "kevlam"
-      slack: "REPLACE_USER_EMAIL"
+      slack: "klam@esri.com"
       slackWorkspace: "T010A455W77"
